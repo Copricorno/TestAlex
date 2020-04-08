@@ -17,4 +17,6 @@ def reg():
     Your_Email.send_keys("Copricorno@ukr.net",Keys.ENTER)
 
 
-new = reg()
+new = reg() #1234567890
+
+
